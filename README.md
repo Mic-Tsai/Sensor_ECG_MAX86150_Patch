@@ -1,6 +1,8 @@
 ![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Sensor_ECG_PPG_MAX86150_Patch/blob/main/res/Sensor_ECG_PPG_MAX86150_Patch-1.png)
 # Sensor_ECG_PPG_MAX86150 | Patch
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 Arduino based sensor learning project. This project is further application from Health_Sensor_ecg_ppg_max86150 dev-board, plotting the ECG curve which used Processing on your computer.
 
  - Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as hysteresis filter.
@@ -35,6 +37,9 @@ For coding example, you need the following library:
 Any question or need technical support:
 
 * Contact me via mail (xbcke12345@gmail.com)
+
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 
 ## 
 ![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Sensor_ECG_PPG_MAX86150_Patch/blob/main/res/Sensor_ECG_PPG_MAX86150_Patch-2.png)
